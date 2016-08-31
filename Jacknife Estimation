@@ -1,5 +1,3 @@
-# Jacknife Estimation
-
 precip # Data
 N <- length(precip) # Total Population
 n <- 25 # Sample Size
