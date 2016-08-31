@@ -1,3 +1,4 @@
+# Libraries and colours
 library(fda)
 library(fda.usc)
 library(RColorBrewer)
